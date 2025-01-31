@@ -1,0 +1,5 @@
+name: FarmProtection
+author: Yurito
+version: '1.0'
+main: me.yurito.farmProtection.FarmProtection
+api-version: '1.16'
